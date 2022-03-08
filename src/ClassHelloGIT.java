@@ -5,6 +5,7 @@ public class ClassHelloGIT {
 		// TODO Auto-generated method stub
 		System.out.println("Hello GIT");
 		System.out.println("Hello GIT, update from Github");
+		System.out.println("Hello GIT, update again");
 
 	}
 
